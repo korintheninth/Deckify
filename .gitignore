@@ -11,6 +11,7 @@ libs/external
 *.pdb
 *.ilk
 *.exp
+*.dll
 
 # Temporary files
 *.log
