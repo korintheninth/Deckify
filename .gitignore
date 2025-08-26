@@ -1,0 +1,32 @@
+# Build outputs
+/build/
+/build/**
+Debug/
+Release/
+libs/external
+
+# Compiled objects
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
